@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hazimaiman
 - 👀 I am fresh graduate from Universiti Malaysia Perlis ( UniMAP ) with A Bachelor Engineering In Computer Network
-- 🌐 hzaiman.my
+- 🌐 https://hzaiman.my/
 - 📫 How to reach me hazimaiman.azman@gmail.com | hazimaiman@zuliam.com
 
 <!---
